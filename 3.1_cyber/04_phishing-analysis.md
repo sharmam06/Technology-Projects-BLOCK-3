@@ -31,14 +31,18 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
+-Security team
 2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
+-Yes
+3.Are there spelling or grammar mistakes?
+-Yes, there are several noticable mistakes.
 4.  Does the link match the organisation domain?
+-No
 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
+-Exploiting human psychology is often much easier than breaking through technical security controls.
 ------------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
@@ -52,8 +56,11 @@ Hover over the link in the email (or copy link) and inspect the URL.
 ### Questions
 
 1.  Does the displayed link match the actual URL?
+-There is no link to compare.
 2.  Are there unusual domain names?
+-Yes
 
 ### Reflection
 
 Explain why users should always inspect links before clicking them.
+-Because they may lead to fake websites,phishing page, or malicious downloads. Checking the link helps prevent stolen passwords, personal information, and malware infections.
